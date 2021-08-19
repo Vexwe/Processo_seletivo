@@ -1,0 +1,19 @@
+{
+  "name": "index",
+  "version": "1.0.0",
+  "description": "Teste para um processo seletivo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vexwe/Processo_seletivo.git"
+  },
+  "author": "Deyvid Mota",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vexwe/Processo_seletivo/issues"
+  },
+  "homepage": "https://github.com/Vexwe/Processo_seletivo#readme"
+}
